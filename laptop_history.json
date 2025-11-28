@@ -1,0 +1,65 @@
+[
+  {
+    "Processor": 2.5,
+    "RAM": 8,
+    "Storage": 512,
+    "Predicted Price": 45000.0,
+    "Timestamp": "2025-10-27 23:14:18",
+    "Laptop Profile": "\ud83d\udcda Student/Office",
+    "id": "1761587058_0"
+  },
+  {
+    "Processor": 3.3,
+    "RAM": 32,
+    "Storage": 1024,
+    "Predicted Price": 111600.0,
+    "Timestamp": "2025-10-27 23:32:46",
+    "Laptop Profile": "\ud83d\udd25 Gaming/Workstation",
+    "id": "1761588166_1"
+  },
+  {
+    "Processor": 3.7,
+    "RAM": 24,
+    "Storage": 512,
+    "Predicted Price": 83400.0,
+    "Timestamp": "2025-10-28 11:44:07",
+    "Laptop Profile": "\ud83d\udcda Student/Office",
+    "id": "1761632047_2"
+  },
+  {
+    "Processor": 4.2,
+    "RAM": 8,
+    "Storage": 512,
+    "Predicted Price": 75400.0,
+    "Timestamp": "2025-10-28 12:01:35",
+    "Laptop Profile": "\ud83d\udcda Student/Office",
+    "id": "1761633095_3"
+  },
+  {
+    "Processor": 4.2,
+    "RAM": 36,
+    "Storage": 1152,
+    "Predicted Price": 140400.0,
+    "Timestamp": "2025-10-29 16:28:58",
+    "Laptop Profile": "\ud83d\udd25 Gaming/Workstation",
+    "id": "1761735538_4"
+  },
+  {
+    "Processor": 4.4,
+    "RAM": 32,
+    "Storage": 512,
+    "Predicted Price": 121800.0,
+    "Timestamp": "2025-10-31 09:59:03",
+    "Laptop Profile": "\ud83d\udd25 Gaming/Workstation",
+    "id": "1761884943_5"
+  },
+  {
+    "id": "1761903328_6",
+    "Processor": 3.2,
+    "RAM": 28,
+    "Storage": 896,
+    "Predicted Price": 89400.0,
+    "Timestamp": "2025-10-31 15:05:28",
+    "Laptop Profile": "\ud83d\udcda Student/Office"
+  }
+]
